@@ -7,7 +7,7 @@ spring:
   application:
     name: customer-service
   datasource:
-    url: jdbc:mysql://localhost:3306/customerdb
+    url: jdbc:mysql://localhost:3306/customer_master
     username: root
     password: password
     driver-class-name: com.mysql.cj.jdbc.Driver
