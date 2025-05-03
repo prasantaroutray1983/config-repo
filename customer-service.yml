@@ -1,8 +1,4 @@
 # File: customer-service.yml
-
-server:
-  port: 8081
-
 spring:
   application:
     name: customer-service
